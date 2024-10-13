@@ -1,0 +1,7 @@
+git init 
+echo "text" > test.file
+git status
+git add . 
+git status
+git commit -m "comment"
+git log 
